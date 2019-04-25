@@ -3,3 +3,6 @@
 ################################################################################
 
 /WebAPI/packages
+/WebAPI/WebAPI/bin
+/WebAPI/WebAPI/obj/Debug
+/WebAPI/WebAPI/Scripts
